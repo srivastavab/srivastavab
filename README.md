@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Srivastava, Software Enginerr at <a href="https://github.com/erwin-inc">erwin, Inc</a>
+# Hi there 👋, I'm Srivastava, Software Engineer at <a href="https://github.com/erwin-inc">erwin, Inc</a>
 
 <!--
 **srivastavab/srivastavab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
