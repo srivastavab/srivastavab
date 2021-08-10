@@ -10,6 +10,8 @@
 
 Location: 127.0.0.1
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=srivastavab&count_private=true&show_icons=true&theme=radical)
+
 #### Web Development, Tools and Technologies: <br>
 <img height="26" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
 <img height="26" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
