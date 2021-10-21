@@ -27,7 +27,7 @@ Location: 127.0.0.1
     <img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=8AC149"/>
     <img src="https://img.shields.io/badge/-NPM-000000?&style=flat&logo=npm&logoColor=CB3837"/>
     <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=1E87E3" />
-    <img src="https://img.shields.io/badge/-SQLServer-000000?style=flat&logo=sqlserver&logoColor=1E87E3" />
+    <img src="https://img.shields.io/badge/-SQLServer-000000?style=flat&logo=microsoftsqlserver&logoColor=1E87E3" />
     <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/>
     <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
     <img src="https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellijidea&logoColor=396E9B" />
