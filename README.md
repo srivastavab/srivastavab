@@ -18,6 +18,7 @@ Location: 127.0.0.1
     <img src="https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=4AAA3C" />
     <img src="https://img.shields.io/badge/-Elasticsearch-000000?style=flat&logo=elasticsearch&logoColor=F4FF33" />
     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColorhalf=396E9B" />
+    <img src="https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColorhalf=4AAA3C" />
     <img src="https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&logoColor=F57C00" />
     <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5"/>
     <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/>
