@@ -38,7 +38,7 @@ Location: 127.0.0.1
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=srivastavab&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&count_private=true&include_all_commits=true&layout=compact&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&bg_color=000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&count_private=true&include_all_commits=true&layout=compact&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&bg_color=000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavab&count_private=true&include_all_commits=true&layout=compact&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&bg_color=000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavab&count_private=true&include_all_commits=true&layout=compact&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&bg_color=000000)
   
 ### Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srivastavab&theme=chartreuse-dark)](https://git.io/streak-stats)
