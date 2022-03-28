@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/this.srivastava-black?style=flat&logo=Instagram&logoColor=pink&target=_blank&link=https://www.instagram.com/this.srivastava/)](https://www.instagram.com/this.srivastava/)
 
 🧰  I'm currently working as:
-- Software Engineer at <a href="https://github.com/erwin-inc">erwin, Inc</a>
+- Software Engineer at <a href="https://quest.com">Quest Software, Inc</a>
 
 💡 Ask me about:
 - Anything, I'm always happy to help in any way that I can.
