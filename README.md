@@ -1,4 +1,4 @@
-## Hiya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Srivastava!
+## Hiya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px" height="15px"> I'm Srivastava!
 
 [![Linkedin](https://img.shields.io/badge/srivastava-black?style=flat&logo=Linkedin&logoColor=blue&link=https:https://www.linkedin.com/in/srivastava-bodakunti/)](https://www.linkedin.com/in/srivastava-bodakunti/)
 [![Instagram](https://img.shields.io/badge/this.srivastava-black?style=flat&logo=Instagram&logoColor=pink&target=_blank&link=https://www.instagram.com/this.srivastava/)](https://www.instagram.com/this.srivastava/)
